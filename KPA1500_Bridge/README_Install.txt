@@ -1,6 +1,16 @@
 KPA1500 / Thetis Bridge  -  how to install                    (KW4EX)
 =====================================================================
 
+NOTICE - NO WARRANTY, USE AT YOUR OWN RISK
+  This program is shared free by one radio operator, "as is". There is no
+  warranty of any kind: no promise that it works, that it is safe, or that it
+  suits your equipment or purpose. Amplifiers, radios and antennas can be
+  damaged, and RF can be dangerous. You are responsible for checking that it
+  behaves correctly with your own station and for operating within your
+  license. The author is not liable for any damage or loss. Not made,
+  approved or supported by Elecraft, FlexRadio, Telepost, Thetis or Zeus.
+  Licensed under the MIT License (see LICENSE.txt).
+
 WHAT IT IS
   A small program (the "bridge") that connects an Elecraft KPA1500
   amplifier to the Thetis SDR program. It works with three Thetis versions

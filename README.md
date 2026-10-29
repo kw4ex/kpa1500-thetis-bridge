@@ -52,3 +52,14 @@ options**.
 "Elecraft", "KPA1500", "FlexRadio", "FlexControl"
 and "LP-100A" are names of their owners; this is an independent, community-made
 program.
+
+## No warranty — use at your own risk
+
+This program is shared free by one radio operator, **as is**. There is **no
+warranty of any kind**: no promise that it works, that it is safe, or that it
+suits your equipment or your purpose. Amplifiers, radios and antennas can be
+damaged, and RF can be dangerous. You are responsible for checking that it
+behaves correctly with your own station, and for operating within your
+license. The author is not liable for any damage or loss. It is not made,
+approved or supported by Elecraft, FlexRadio, Telepost, Thetis or Zeus.
+Licensed under the [MIT License](LICENSE).
