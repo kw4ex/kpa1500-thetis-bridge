@@ -2,7 +2,7 @@ KPA1500 / Thetis Bridge  -  how to install                    (KW4EX)
 =====================================================================
 
 NOTICE - NO WARRANTY, USE AT YOUR OWN RISK
-  This program is shared free by one radio operator, "as is". There is no
+  This program is shared by one radio operator, "as is". There is no
   warranty of any kind: no promise that it works, that it is safe, or that it
   suits your equipment or purpose. Amplifiers, radios and antennas can be
   damaged, and RF can be dangerous. You are responsible for checking that it
