@@ -1,4 +1,6 @@
-# KPA1500 Thetis Bridge — v2.31
+# KPA1500 Thetis Bridge — v2.31 (older program)
+
+> **This program now lives with the newer bridge.** Downloads for the Thetis Bridge 2.31 and the newer KPA1500 SDR Bridge (Thetis, NereusSDR and more) are on one page: **[kw4ex/kpa1500-sdr-bridge Releases](https://github.com/kw4ex/kpa1500-sdr-bridge/releases)**. This page stays up so old links keep working.
 
 A Windows program that connects an **Elecraft KPA1500** amplifier (and,
 optionally, a **FlexRadio FlexControl** tuning knob and a **Telepost LP-100A**
