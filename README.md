@@ -1,5 +1,7 @@
 # KPA1500 Thetis Bridge — v2.31 (older program)
 
+**Windows only.** This program runs on Windows 10 and 11 only. The installer and helper files are Windows batch files and will not work on a Mac or Linux.
+
 > **This program now lives with the newer bridge.** Downloads for the Thetis Bridge 2.31 and the newer KPA1500 SDR Bridge (Thetis, NereusSDR and more) are on one page: **[kw4ex/kpa1500-sdr-bridge Releases](https://github.com/kw4ex/kpa1500-sdr-bridge/releases)**. This page stays up so old links keep working.
 
 A Windows program that connects an **Elecraft KPA1500** amplifier (and,
