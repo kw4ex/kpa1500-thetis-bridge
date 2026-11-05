@@ -14,9 +14,14 @@ programmable — works without the amplifier too). One-page summary:
 
 ## Download
 
-1. Click **[KPA1500_Bridge_Complete_v2.31.zip](KPA1500_Bridge_Complete_v2.31.zip)**,
-   then the **download** button (↓, "Download raw file").
-2. In your Downloads folder, right-click the file › **Extract All…** › **Extract**.
+**Start at the [Releases page](https://github.com/kw4ex/kpa1500-thetis-bridge/releases/latest).**
+The top entry marked **Latest** is the newest version; older versions stay listed
+below it. Click **KPA1500_Bridge_Complete_v2.31.zip** in the **Assets** list (not
+"Source code"), then in your Downloads folder right-click it, **Extract All…**,
+**Extract**. Step-by-step download instructions are on the release page.
+
+Using NereusSDR, or want the Applet window? Use the newer
+[KPA1500 SDR Bridge](https://github.com/kw4ex/kpa1500-sdr-bridge/releases/latest); it replaces this program.
 
 ## Install (about 5 minutes)
 
@@ -42,7 +47,7 @@ install it).
 
 **Only one program should control the amplifier.** Don't run this bridge at
 the same time as the KPA1500 feature for Zeus
-([kw4ex/zeus-amp](https://github.com/kw4ex/zeus-amp)).
+([kw4ex/kpa1500-for-zeus](https://github.com/kw4ex/kpa1500-for-zeus)).
 
 ## Updating
 
